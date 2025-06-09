@@ -1,7 +1,7 @@
 ## Olá!Eu sou o Eri!
 
 🏫 Formando em Desenvolvimento Web
-📚 Estudando React e Inglês
+📚 Estudando JavaScript e Inglês
 💻 Contate-me no email: eiamarodasilvacontact@gmail.com
   ##
 <div style="display: inline_block"><br>
